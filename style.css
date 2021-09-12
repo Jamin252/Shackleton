@@ -1,14 +1,13 @@
 #header {
-    background-color:#064273;
+    background-color:crimson;
     color:#def3f6;
     height:200px;
     width:100%
 }
 #header img {
     float:left;
-    height:90%;
-    margin:10px 10px 
-    auto
+    height:70px;
+    margin: 10px 10px auto;  
 }
 #nav li {
     display: inline; 
@@ -45,4 +44,7 @@ ul {
 }
 #nav {
     background-color:#f6e1de;text-align:center;padding: 20px 0px 20px 0px
+}
+p {
+    padding: 20px 20px 20px 20px;
 }
